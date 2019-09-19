@@ -1,2 +1,1 @@
-# acharya-sowmya.github.io
-Academic portfolio of Sowmya Acharya
+Personal website with academic profile.
